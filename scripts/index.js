@@ -13,9 +13,9 @@ var sessionData = [];
 
 var COLOR_RED = "#e77674";
 var COLOR_YELLOW = "#ffff00";
-var COLOR_BLUE = "#00eeee";
+var COLOR_BLUE = "#80e5d7";
 var COLOR_BLACK = "#808080";
-var COLOR_GREEN = "#009000";
+var COLOR_GREEN = "#7fde7d";
 
 function fire(){
 	//get seed and set the seed for randomizer
