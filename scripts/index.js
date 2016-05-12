@@ -65,7 +65,7 @@ function createNewGame(){
 	}
 
 	// one extra for one of the teams
-	document.getElementById("first").innerHTML = " starts (9).";
+	document.getElementById("first").innerHTML = " starts.";
 	if(Math.floor(Math.random() * data.length) % 2 === 0){
 		teams.push(COLOR_RED);
 		document.getElementById("team").style.color = COLOR_RED;
